@@ -1,8 +1,10 @@
-package com.udemy.java.nelioalves.secao10.aula94;
+package com.udemy.java.nelioalves.secao10.aula94.application;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+import com.udemy.java.nelioalves.secao10.aula94.entities.Employee;
 
 public class Program {
 

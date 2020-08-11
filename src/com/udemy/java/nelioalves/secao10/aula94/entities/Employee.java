@@ -1,4 +1,4 @@
-package com.udemy.java.nelioalves.secao10.aula94;
+package com.udemy.java.nelioalves.secao10.aula94.entities;
 
 public class Employee {
 
