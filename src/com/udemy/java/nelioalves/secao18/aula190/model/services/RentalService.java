@@ -2,6 +2,7 @@ package com.udemy.java.nelioalves.secao18.aula190.model.services;
 
 import com.udemy.java.nelioalves.secao18.aula190.model.entities.CarRental;
 
+@SuppressWarnings("unused")
 public class RentalService {
 
 	private Double pricePerDay;
